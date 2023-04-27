@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WDPEahxzX9jcoRvPjW9+NeO2LtI+AYS0To3AdsyJZrg=",
+  "Source": "Gateway.API.Microservice",
+  "BasePath": "_content/Gateway.API.Microservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

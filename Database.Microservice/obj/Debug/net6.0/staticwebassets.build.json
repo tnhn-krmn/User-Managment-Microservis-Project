@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GK2isOsGkoFd9VJW/5cqLsglE0ZA9aINx9dtyOTJGm8=",
+  "Source": "Database.Microservice",
+  "BasePath": "_content/Database.Microservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

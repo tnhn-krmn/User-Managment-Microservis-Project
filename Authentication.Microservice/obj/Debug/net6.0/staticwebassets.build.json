@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "EEf1u8yAmklf3Zky57GDJWLpOzTWrvdiMejvCGAFuBA=",
+  "Source": "Authentication.Microservice",
+  "BasePath": "_content/Authentication.Microservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\tunah\\OneDrive\\Masaüstü\\Enoca\\Microservice\\Microservice.Project\\Database.Microservice\\Database.Microservice.csproj",
+      "Version": 2,
+      "Source": "Database.Microservice",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
